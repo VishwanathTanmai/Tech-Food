@@ -264,6 +264,6 @@ function openWhatsapp() {
     }
 
     let wTxtEncoded = encodeURI(wTxt);
-    window.open("https://wa.me/917993578412?text= welocme to Tech Momos 🍴🍴" + wTxtEncoded);
+    window.open("https://wa.me/917993578412?text= welocme to Tech Food 🍴🍴" + wTxtEncoded);
   }
 }
