@@ -259,7 +259,7 @@ function openWhatsapp() {
         "*" +
         "\n\n Address: " +
         address +
-        "\n Note: " +
+        "\n Cooking Instructions: " +
         note;
     }
 
